@@ -1,4 +1,4 @@
-# solid-waste-DWH
+# Solid-waste-DWH
 
 **Introduction**
 
