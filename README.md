@@ -57,5 +57,9 @@ This project demonstrates various data analysis techniques using the data wareho
 * **max_waste_per_station:** A pre-computed view showing the maximum waste collected per station, truck type, and city for faster querying.
 * **Dataforcognos:** A pre-computed view that provides only data that will be used by Cognos to create the dashboard
 
+**Dashboard**
+* Creating an interactive Dashboard using **Cognos Analytics** 
+
+
 
 
